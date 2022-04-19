@@ -1,0 +1,53 @@
+Rio, 19/04/22
+
+Introdução de Git e Github
+
+# Comandos Básicos 
+
+GUI x CLI
+
+O Que vamos aprender?
+
+- Mudar de pastas
+- Listar as pastas
+- Criar pastas/arquivos
+- Deletar pastas/arquivos
+----------------------------
+
+-- Windows (shell)
+
+- cd --> Entra na pasta
+- dir --> Lista as pastas
+- mkdir --> Cria as pastas
+- del / rmkdir --> Deleta as pastas
+- cd . e cd .. --> volta um diretório
+- cd / --> volta pra raiz
+- cls --> Limpa a tela(tudo)
+- Ctrl + L --> Limpa a tela (atual)
+- TAB --> Auto completa
+- echo --> printa o conteudo na tela
+- > (redireciona fluxo) --> direciona o conteudo no arquivo
+EX: echo ola >  terra.txt
+
+- rmdir --> deleta a pasta
+# CMS
+EX: C:\>rmdir (no pasta= aulagit) /S /Q
+
+# Powe Shell
+EX: C:\>del (no pasta= aulagit) e confirmar com S
+--------
+
+
+-- Unix (bash)
+
+- cd --> Entra no diretório
+- ls --> Lista os Diretórios
+- mkdir --> Crias Diretórios
+- rm -rf --> Detela os Diretórios (r-recursiva f-force)
+EX: rm -rf (nome pasta= workspace)
+
+- cd .. --> volta um diretório
+- cd / --> volta pra raiz
+- clear --> Limpa a Tela(tudo)
+- Ctrl + L --> Limpa a tela (atual)
+- TAB --> Auto completa
